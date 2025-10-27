@@ -16,9 +16,9 @@ Automated setup and management tool for a complete media streaming stack with Re
   **Real-Debrid Integration** / **Integração Real-Debrid**
   - Automatic token validation (52 characters)
   - WebDAV mounting via rclone
-  - **Zero-copy streaming** - symlinks instead of downloads
-  - **No local storage required** - media stays in the cloud
-  - **Instant playback** - no waiting for downloads
+  - Zero-copy streaming- symlinks instead of downloads
+  - No local storage required - media stays in the cloud
+  - Instant playback - no waiting for downloads
 
 - **M3U Playlist Generator** / **Gerador de Playlists M3U**
   - Automatic subtitle detection (PT/EN priority)
