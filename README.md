@@ -2,10 +2,6 @@
 
 Automated setup and management tool for a complete media streaming stack with Real-Debrid integration.
 
-*Ferramenta de configuração e gestão automatizada para stack completa de streaming de media com integração Real-Debrid.*
-
----
-
 ## Features / Características
 
 - **Automated Installation** / **Instalação Automatizada**
@@ -23,8 +19,6 @@ Automated setup and management tool for a complete media streaming stack with Re
   - **Zero-copy streaming** - symlinks instead of downloads
   - **No local storage required** - media stays in the cloud
   - **Instant playback** - no waiting for downloads
-  - **Sem ocupar espaço em disco** - ficheiros permanecem na cloud
-  - **Reprodução instantânea** - sem esperar por downloads
 
 - **M3U Playlist Generator** / **Gerador de Playlists M3U**
   - Automatic subtitle detection (PT/EN priority)
@@ -37,9 +31,7 @@ Automated setup and management tool for a complete media streaming stack with Re
   - Easy navigation
   - Separate installation and management modes
   - User-friendly prompts and validation
-
 ---
-
 ## Storage Benefits / Benefícios de Armazenamento
 
 **Traditional Setup vs This Stack:**
@@ -55,5 +47,4 @@ Automated setup and management tool for a complete media streaming stack with Re
 - Media stays on Real-Debrid servers / Média fica nos servidores Real-Debrid
 - Symlinks point to cloud files / Symlinks apontam para ficheiros na cloud
 - Stream directly without downloading / Faz streaming direto sem descarregar
-
 ---
