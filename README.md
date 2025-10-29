@@ -44,7 +44,7 @@ Automated setup and management tool for a complete media streaming stack with Re
 | Risk of disk failure | Redundant cloud storage / Armazenamento cloud redundante |
 
 **How it works / Como funciona:**
-- Media stays on Real-Debrid servers / Média fica nos servidores Real-Debrid
+- Media stays on Real-Debrid servers / Filmes/Series ficam nos servidores Real-Debrid
 - Symlinks point to cloud files / Symlinks apontam para ficheiros na cloud
 - Stream directly without downloading / Faz streaming direto sem descarregar
 ---
