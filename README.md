@@ -46,5 +46,5 @@ Automated setup and management tool for a complete media streaming stack with Re
 **How it works / Como funciona:**
 - Media stays on Real-Debrid servers / Filmes/Series ficam nos servidores Real-Debrid
 - Symlinks point to cloud files / Symlinks apontam para ficheiros na cloud
-- Stream directly without downloading / Faz streaming direto sem descarregar
+- Stream directly without downloading / Faz streaming direto sem ter que fazer download para a maquina
 ---
